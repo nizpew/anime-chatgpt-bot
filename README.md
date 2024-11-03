@@ -2,6 +2,15 @@
 Description
 AnimeChatBot is an interactive application that allows users to engage with their favorite anime characters through prompts. By utilizing a command-line tool, this chatbot generates responses that roleplay as various anime characters, providing a fun and immersive experience. Users can input their queries, and the bot will respond with character-appropriate replies, making it a delightful tool for anime fans.
 
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/c1947898-0ed8-4a9d-b5b0-66ec86412691)
+
+Screenshots can be added here to showcase the application interface and functionality.
+
+
+
+
 ##  Features
 Interactive Roleplaying
 Character Roleplay: Generate responses as if they were coming from an anime shoujo character based on user prompts.
@@ -53,9 +62,3 @@ bash
 
 ## Start the Flask application
 python main.py
-
-## Screenshots
-![image](https://github.com/user-attachments/assets/c1947898-0ed8-4a9d-b5b0-66ec86412691)
-
-Screenshots can be added here to showcase the application interface and functionality.
-
