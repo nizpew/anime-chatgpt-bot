@@ -53,6 +53,9 @@ bash
 
 ## Start the Flask application
 python main.py
-Screenshots
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/c1947898-0ed8-4a9d-b5b0-66ec86412691)
+
 Screenshots can be added here to showcase the application interface and functionality.
 
