@@ -55,6 +55,10 @@ For Linux
     cd anime-chatgpt-bot
     pip install -r requirements.txt
 
+## External Dependencies
+[tgpt](https://github.com/aandrew-me/tgpt)
+
+
 ## Run the application
 python3 main.py
 Run the Application
