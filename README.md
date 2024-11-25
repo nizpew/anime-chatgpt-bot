@@ -35,7 +35,6 @@ Engage with Characters: Use various prompts to interact with different anime cha
 ## Installation
 For Windows
 
-    bash
     
     ## Clone the repository and navigate to the project folder
     git clone https://github.com/nizpew/anime-chatgpt-bot.git
@@ -48,7 +47,7 @@ For Windows
     python main.py
 For Linux
   
-    bash
+    
     
     ## Clone the repository and install the required dependencies
     git clone https://github.com/nizpew/anime-chatgpt-bot.git
