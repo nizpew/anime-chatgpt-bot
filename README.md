@@ -34,26 +34,15 @@ Engage with Characters: Use various prompts to interact with different anime cha
 
 ## Installation
 For Windows
-
+    see the windwos branch of the repo
     
-    ## Clone the repository and navigate to the project folder
-    git clone https://github.com/nizpew/anime-chatgpt-bot.git
-    cd anime-chatgpt-bot
-    
-    ## Install required dependencies
-    pip install -r requirements.txt
-    
-    ## Run the application
-    python main.py
 For Linux
-  
-    
-    
     ## Clone the repository and install the required dependencies
     git clone https://github.com/nizpew/anime-chatgpt-bot.git
     cd anime-chatgpt-bot
-    pip install -r requirements.txt
-
+    python3 -m venv venv ; source venv/bin/activate ; pip install flask
+    python main.py
+    
 ## External Dependencies
 [tgpt](https://github.com/aandrew-me/tgpt)
 
