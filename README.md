@@ -37,7 +37,7 @@ For Windows
 
     
     ## Clone the repository and navigate to the project folder
-    git clone https://github.com/nizpew/anime-chatgpt-bot.git
+    git clone --branch windows-branch https://github.com/nizpew/anime-chatgpt-bot.git
     cd anime-chatgpt-bot
     
     ## Install required dependencies
